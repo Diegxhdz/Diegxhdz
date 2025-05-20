@@ -1,0 +1,16 @@
+- 👋 Hi, I’m Diego Hernandez
+  - I'm a Computer Engineering student, I am currently developing academic and personal projects that combine both hardware and software with a functional approach.
+- 👀 I’m interested in
+  - Machine Learning & Computer Vision
+  - Software development
+  - App development
+  - Cybersecurity
+- 🛠 Technologies & Tools
+  - Languages: `Java`, `Python`, `C`, `C++`, `Dart`, `HTML/CSS`, `SQL`
+  - Databases: `MySQL`, `SQLite`
+  - Tools: `Git`, `MPLAB X`, `Figma`, `VS Code`
+- ⚡Currently working on
+  -📱 **MelodIA**: A Flutter app that detects emotions using YOLOv8 and recommends personalized music.
+- 📫 How to reach me 
+  - Email: hernandezr.diego.p8@gmail.com
+  - LinkedIn: (https://www.linkedin.com/in/diegohernandez21334/)
