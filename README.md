@@ -13,4 +13,4 @@
   -📱 **MelodIA**: A Flutter app that detects emotions using YOLOv8 and recommends personalized music.
 - 📫 How to reach me 
   - Email: hernandezr.diego.p8@gmail.com
-  - LinkedIn: (https://www.linkedin.com/in/diegohernandez21334/)
+  - LinkedIn: (https://www.linkedin.com/in/diegohr1/)
