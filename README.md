@@ -7,7 +7,7 @@
   - Cybersecurity
 - 🛠 Technologies & Tools
   - Languages: `Java`, `Python`, `C`, `C++`, `Dart`, `HTML/CSS`, `SQL`
-  - Databases: `MySQL`, `SQLite`
+  - Databases: `MySQL`, `SQLite`, `PostgreSQL`
   - Tools: `Git`, `MPLAB X`, `Figma`, `VS Code`
 - ⚡Currently working on
   -📱 **MelodIA**: A Flutter app that detects emotions using YOLOv8 and recommends personalized music.
