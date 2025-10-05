@@ -9,6 +9,7 @@
   - Languages: `Java`, `Python`, `C`, `C++`, `Dart`, `HTML/CSS`, `SQL`
   - Databases: `MySQL`, `SQLite`, `PostgreSQL`
   - Tools: `Git`, `MPLAB X`, `Figma`, `VS Code`
+  - Frameworks: `Spring`
 - ⚡Currently working on
   -📱 **MelodIA**: A Flutter app that detects emotions using YOLOv8 and recommends personalized music.
 - 📫 How to reach me 
